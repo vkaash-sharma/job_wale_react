@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400;500;600&family=IBM+Plex+Serif:wght@400;500&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  font-family: 'IBM Plex Sans', sans-serif;
+}
+
+// Fonts
+$IBM-plex-serif-font: 'IBM Plex Serif', serif;
+$IBM-plex-sans-font: 'IBM Plex Sans', sans-serif;
+
+//Green variant
+$primary-color: #006D3D;
+$primary-color-hv: #41A26C;
+$primary-light: #95F7B9;  
+$primary-light-hv: #79DA9E;
+$primary-dark-text: #00210E;  
+
+$secondary-color: #4F6354;
+$secondary-light-1: #DDE5DC;
+$secondary-light-2: #eeeeee;
+
+$light-blue: #BFEAF8;
+$darker-blue: #001F27;
+
+
+//Grey variant
+$black: #000000;
+$grey-1: #191C1A;
+$grey-2: #2e312e;
+$grey-3: #5d5f5c;
+$grey-4: #707971;
+$grey-5: #757874;
+$grey-6: #8f918d;
+
+// status color
+$danger-text: #BA1B1B;
+$danger-bg: #FFDAD4;
+$warning-color: #FFA722;
+$info-color: #0656CE;
+$success-color: #006D3D;
+
+
+
+

@@ -1,4 +1,4 @@
-import logo from "../../Assets/Images/whoop-logo.svg";
+import logo from "../../Assets/Images/logo1.png";
 import Container from "react-bootstrap/Container";
 import { Badge, Button, Dropdown, Figure, Image } from "react-bootstrap";
 import TimeAgo from "react-timeago";
